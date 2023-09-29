@@ -1,0 +1,3 @@
+[submodule "DemoGitSubModuleSub"]
+	path = DemoGitSubModuleSub
+	url = https://github.com/tetsuo-nobe/DemoGitSubModuleSub.git
